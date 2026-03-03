@@ -1,3 +1,82 @@
+# Tuesday, March 3, 2026
+
+## @Heyrohanislam - Founder Skills Vault: 7 Claude Skills for Marketing Automation
+> I built 7 Claude Skills that replaced 6+ hours of weekly marketing work.
+> Now I'm giving them all away.
+>
+> The Founder Skills Vault:
+>
+> → Viral Content Generator
+> → Content Pillar Generator
+> → LinkedIn Content Analyzer
+> → Lead Magnet Idea Generator
+> → LinkedIn-to-X Converter
+> → Warm DM Strategist
+> → Lead Qualifier
+
+- **Tweet:** https://x.com/Heyrohanislam/status/2028773451864080397
+- **What:** Collection of 7 production-grade Claude Skills designed to automate marketing work for founders. Claims to save 6+ hours weekly and includes tools for content creation, lead generation, and cross-platform optimization. Used to grow 7,000+ followers in 3 months.
+
+---
+
+## @chhddavid - Zero-Cost Lovable Alternative Builder
+> i made a 10/10 lovable alternative
+>
+> - 0 API tokens
+> - 0 cursor confusion
+> - 0 bankruptcy on credits
+>
+> builds literally anthing lovable: websites, web apps, chrome extensions, mobile apps... you name it??
+
+- **Tweet:** https://x.com/chhddavid/status/2028748299793277001
+- **What:** Announcement of a Lovable alternative for building websites, web apps, Chrome extensions, and mobile apps without API token costs, cursor confusion, or credit expenses. Video demonstration included.
+
+---
+
+# Monday, March 2, 2026
+
+## @0xCharlota - Vibecoders Meet Production: Supabase Scaling Challenges
+> a girl vibecoded something
+> people liked the vibecoded something
+> a girl is now receiving emails from @supabase about "IO Budget" and "unresponsive instance"
+> a girl does not know what any of this means
+>
+> *Quoting @0xCharlota:* I built a multiplayer embroidery sampler for the internet. It's called Common Thread. 🪡
+
+- **Tweet:** https://x.com/0xCharlota/status/2028487261642281008
+- **Quoted:** https://x.com/0xCharlota/status/2027402767375929570
+- **What:** Humorous but real account of unexpected scaling challenges after a viral success. Common Thread, a multiplayer embroidery sampler built with Figma Make, hit production load limits, triggering Supabase alerts about IO budget and instance responsiveness.
+
+---
+
+## @CryptoEights - AI Content Strategy with Custom LLM Skills
+> Rame ya soal akun @hanifproduktif yang pakai AI buat nulis konten di Twitter
+>
+> Gue juga pakai. Dan gue mau jujur soal prosesnya.
+>
+> Dulu gue cuma copy paste → views 300-600
+> Sekarang pakai LLM + custom skills → views bisa 40.000
+>
+> Bedanya bukan di AI-nya
+> Bedanya di cara lu ngasih konteks ke AI-nya
+
+- **Tweet:** https://x.com/CryptoEights/status/2028734953509572815
+- **What:** Case study on AI-powered content creation for Twitter. Shows dramatic improvement from 300-600 views (basic copy-paste) to 40,000 views using LLM with custom skills and proper context engineering. 7.6% engagement rate achieved. Video breakdown included.
+
+---
+
+## @EHuanglu - AI Floor Plan to Interior Design Tool
+> this is over for.. interior designers
+>
+> upload a floor plan, nano banana 2 can design entire house with accurate dimensions and even.. render image for each room
+>
+> like and repost, DM a coupon for free
+
+- **Tweet:** https://x.com/EHuanglu/status/2028451313575706758
+- **What:** Demo of nano banana 2, an AI tool that transforms floor plans into complete interior designs with accurate dimensions and room-by-room renderings. Video demonstration included.
+
+---
+
 # Sunday, January 4, 2026
 
 ## @trq212 - AI alignment and interpretability resources
